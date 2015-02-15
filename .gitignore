@@ -11,3 +11,8 @@ build/
 doc/*.txt
 # игнорировать все .txt файлы в каталоге doc/
 doc/**/*.txt
+#игнорировать мой созданный для игнорирования файл
+*.myignore
+#ignore my logs files
+*.mylogs
+
